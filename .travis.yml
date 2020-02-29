@@ -7,8 +7,8 @@ branches:
   - master
 
 before_install:
-- git config --global user.name "[你的Github帐号名]"
-- git config --global user.email "[你的Github邮箱]"
+- git config --global user.name "sNaticY"
+- git config --global user.email "snatic@outlook.com"
 - npm install -g hexo-cli
 
 install:
